@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## 대전대학교 컴퓨터공학과
 <!--
 **seok019283501/seok019283501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
